@@ -10,4 +10,6 @@ npm cache verify
 
 npm i
 
+npm i --only=dev
+
 gulp publish
