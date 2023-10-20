@@ -9,7 +9,7 @@
   "dependencies": {
     "better-assert": "1.0.2",
     "cron": "1.4.1",
-    "debug": "4.3.2",
+    "debug": "4.3.3",
     "easy-table": "1.1.1",
     "es6-map": "0.1.5",
     "node-opcua": "2.74.0",
